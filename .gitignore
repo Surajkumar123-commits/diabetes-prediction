@@ -15,3 +15,25 @@ __pycache__/
 # OS-specific files
 .DS_Store
 Thumbs.db
+docsprojectjournal.md
+README_backup.md
+docsfinalreport.md
+# Ignore model and binary files
+*.pkl
+*.json
+*.joblib
+*.h5
+*.pt
+*.onnx
+
+# Ignore checkpoints
+*.ipynb_checkpoints/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+
+
