@@ -128,10 +128,10 @@ Response:
 
 ### 📊 Visual Outputs
 
-![Confusion Matrix](Assets/ConfusionMatrix.JPG)
-![ROC Curve](Assets/ROCCurve.JPG)
-![Swagger UI – Top](Assets/SwaggerTop.JPG)
-![Swagger UI – Bottom](Assets/SwaggerBottom.JPG)
+![Confusion Matrix](https://github.com/Surajkumar123-commits/diabetes-prediction/blob/main/Assets/ConfusionMatrix.JPG?raw=true)
+![ROC Curve](https://github.com/Surajkumar123-commits/diabetes-prediction/blob/main/Assets/ROC%20Curve.JPG?raw=true)
+![Swagger UI – Top](https://github.com/Surajkumar123-commits/diabetes-prediction/blob/main/Assets/Swagger%20Top.JPG?raw=true)
+![Swagger UI – Bottom](https://github.com/Surajkumar123-commits/diabetes-prediction/blob/main/Assets/Swagger%20Bottom.JPG?raw=true)
 
 
 🔮 Future Enhancements
